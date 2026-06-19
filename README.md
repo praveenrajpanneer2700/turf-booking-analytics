@@ -1,68 +1,108 @@
-# Turf Booking Analytics Project
+ # ⚽ Turf Booking Analytics & Management System
 
 ## Project Overview
-The Turf Booking Analytics Project is a SQL-based data analysis project designed to analyze turf booking operations and business performance. This project helps track customer bookings, revenue, peak booking hours, cancellations, and customer behavior.
 
-## Objective
-The main objective of this project is to analyze booking data and generate meaningful business insights to improve turf management and decision-making.
+The Turf Booking Analytics Project is a MySQL-based analytics and management system designed to analyze turf booking operations and business performance. It manages customer bookings, turf availability, slot scheduling, payments, cancellations, reviews, staff, and maintenance activities.
+
+This project demonstrates database design, SQL programming, data analysis, and business insight generation using real-world turf booking scenarios.
+
+---
+
+## Database Features
+
+* 10 Relational Tables
+* Primary Keys & Foreign Keys
+* Data Integrity Constraints
+* Joins (Inner Join, Left Join)
+* Subqueries & Correlated Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* Views
+* Stored Procedures
+* Triggers
+* Query Optimization
+
+---
+
+## Business Questions Solved
+
+* Total bookings by day, week, and month
+* Peak booking hours analysis
+* Total revenue generated
+* Most profitable turfs
+* Top 5 customers by booking count
+* Cancellation rate analysis
+* Refund analysis
+* Most used payment methods
+* Customer review and rating analysis
+* Maintenance cost tracking
+
+---
+
+## Database Schema
+
+### Main Tables
+
+* Customers
+* Turfs
+* Slots
+* Bookings
+* Payments
+* Reviews
+* Staff
+* Equipment
+* Maintenance
+* Cancellation
+
+---
+
+## Advanced SQL Concepts Used
+
+| Concept           | Implementation             |
+| ----------------- | -------------------------- |
+| Joins             | Booking & Revenue Analysis |
+| Subqueries        | Customer Ranking           |
+| EXISTS            | Booking Activity Analysis  |
+| CTE               | Revenue & Booking Trends   |
+| Window Functions  | Customer Ranking           |
+| Views             | Business Summary           |
+| Stored Procedures | Revenue Calculation        |
+| Triggers          | Data Validation            |
+| Indexes           | Query Optimization         |
+
+---
 
 ## Tools Used
-- MySQL
-- Microsoft Excel
-- Power BI (Optional)
 
-## Dataset
-This project contains 10 tables:
+* MySQL 8.0
+* MySQL Workbench
+* Microsoft Excel / CSV
+* Git & GitHub
+* Power BI (Optional)
 
-- Customers
-- Turfs
-- Slots
-- Bookings
-- Payments
-- Reviews
-- Staff
-- Equipment
-- Maintenance
-- Cancellation
+---
 
-## Database Design
-The database was designed using Primary Keys and Foreign Keys to establish relationships between multiple tables.
+## ER Diagram
 
-Example Relationships:
-- Customers → Bookings
-- Turfs → Slots
-- Bookings → Payments
-- Bookings → Cancellation
-- Customers → Reviews
+(Add ER_Diagram.png here)
 
-## Key Analysis Performed
-- Total number of bookings
-- Total revenue generated
-- Peak booking hours analysis
-- Cancellation rate analysis
-- Top customers by booking count
-- Most popular turf analysis
-- Payment status analysis
-- Customer review analysis
+## Project Architecture
 
-## Key SQL Concepts Used
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- JOINS
-- Subqueries
-- Aggregate Functions
-- Window Functions
-- CASE Statements
-- CTE
+(Add Database_Schema.png here)
 
-## Sample Business Questions Solved
-1. What are the peak booking hours?
-2. Which turf generates the highest revenue?
-3. Who are the top 5 customers by booking count?
-4. What is the cancellation percentage?
-5. Which payment method is most used?
+---
 
-## Project Outcome
-This project improved my practical knowledge in SQL, database design, data cleaning, and analytical thinking by solving real-world business problems.
+## Key Insights
+
+* Identified peak booking hours with highest demand
+* Measured top-performing turfs based on revenue
+* Analyzed cancellation patterns affecting business profit
+* Evaluated customer engagement through reviews and repeat bookings
+
+---
+
+## Author
+
+**Praveen Raj**
+Aspiring Data Analyst | SQL | Excel | Power BI | GitHub
+
