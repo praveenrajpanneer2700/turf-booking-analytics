@@ -1,0 +1,151 @@
+StaffID,FullName,Role,AssignedTurfID,Phone,Email,HireDate,MonthlySalary,ShiftType,EmploymentStatus
+STF0001,Reva Tank,Receptionist,TURF003,9895134039,joshua13@example.com,2026-02-04,25000,Full-Day,Active
+STF0002,Benjamin De,Maintenance Staff,TURF035,9308183632,sahnigautami@example.org,2024-03-03,30000,Evening,Active
+STF0003,Zehaan Randhawa,Receptionist,TURF044,9663820715,aarnavbhandari@example.com,2024-01-08,18000,Morning,Active
+STF0004,Ria Shan,Ground Manager,TURF008,9178605776,zparekh@example.net,2021-06-30,35000,Full-Day,Active
+STF0005,Udarsh Deo,Cafeteria Staff,TURF038,9920302875,bajajneel@example.net,2020-07-13,35000,Full-Day,Active
+STF0006,Ojasvi Borah,Receptionist,TURF023,9303606778,ymisra@example.net,2024-08-24,22000,Morning,Active
+STF0007,Nathan Wali,Cafeteria Staff,TURF042,9726557136,jagdishbalakrishnan@example.com,2020-11-26,18000,Full-Day,Active
+STF0008,Anya Bhavsar,Coach,TURF017,9453752574,kramanathan@example.org,2023-01-28,35000,Night,Active
+STF0009,Samaksh Dani,Maintenance Staff,TURF034,9269901851,asur@example.net,2024-12-18,35000,Morning,On Leave
+STF0010,Jeevika Ravi,Receptionist,TURF021,9385157646,omisha67@example.org,2023-11-08,22000,Morning,Active
+STF0011,Vivaan Ramesh,Ground Manager,TURF004,9983831934,fradovala@example.com,2023-08-22,22000,Night,Active
+STF0012,Janaki Bhasin,Cafeteria Staff,TURF012,9603456333,bhavini44@example.net,2024-06-09,35000,Evening,Active
+STF0013,Ridhi Sankar,Maintenance Staff,TURF040,9570515578,rhegde@example.com,2023-01-12,30000,Evening,Active
+STF0014,Umang Saha,Coach,TURF035,9324271618,abhiram49@example.com,2025-02-05,30000,Full-Day,Active
+STF0015,Sudiksha Gupta,Security Guard,TURF046,9974762370,omrajan@example.org,2024-09-25,15000,Night,Active
+STF0016,Jacob Chakrabarti,Security Guard,TURF018,9268193192,manan43@example.com,2024-04-07,15000,Night,Active
+STF0017,Hemal Nagi,Receptionist,TURF046,9806253941,matthew18@example.net,2020-12-20,25000,Night,Active
+STF0018,Waida Chaudhari,Cafeteria Staff,TURF024,9925883140,odivan@example.org,2022-02-13,12000,Evening,Active
+STF0019,Frado Rai,Receptionist,TURF015,9826735490,thomas38@example.com,2019-04-25,18000,Full-Day,Active
+STF0020,Krish Manda,Maintenance Staff,TURF049,9716896213,xgrover@example.net,2025-02-17,15000,Night,Active
+STF0021,Janya Wali,Security Guard,TURF027,9856434760,umangkorpal@example.com,2020-12-08,30000,Evening,Active
+STF0022,Bakhshi Khosla,Cafeteria Staff,TURF037,9728946736,brarjasmit@example.net,2020-11-27,15000,Morning,Active
+STF0023,Nidra Bala,Maintenance Staff,TURF016,9601726280,amara57@example.net,2019-03-09,15000,Evening,Active
+STF0024,Amruta Tata,Ground Manager,TURF026,9847491163,sudiksha69@example.net,2022-06-30,18000,Evening,On Leave
+STF0025,Gautami Iyengar,Ground Manager,TURF044,9016636622,wriddhish65@example.net,2019-05-22,25000,Night,Active
+STF0026,Anika Ramaswamy,Maintenance Staff,TURF021,9085796229,ythakkar@example.org,2022-06-07,18000,Morning,Active
+STF0027,Sathvik Mand,Cafeteria Staff,TURF007,9486106600,farhangoel@example.com,2026-02-09,15000,Full-Day,On Leave
+STF0028,Kala Bains,Ground Manager,TURF019,9174953891,natarajandamini@example.net,2023-09-12,35000,Full-Day,On Leave
+STF0029,Harita Goyal,Ground Manager,TURF009,9066788457,udhar@example.com,2022-07-03,35000,Evening,On Leave
+STF0030,Mekhala Mittal,Maintenance Staff,TURF010,9024238935,hgopal@example.org,2019-11-08,18000,Night,On Leave
+STF0031,Sudiksha Majumdar,Ground Manager,TURF001,9072985023,wriddhishpillai@example.net,2024-03-02,30000,Morning,Resigned
+STF0032,Amaira Golla,Security Guard,TURF041,9714853331,sdas@example.org,2019-05-05,22000,Morning,Active
+STF0033,Rohan Kota,Maintenance Staff,TURF037,9129824922,ojasvidada@example.com,2022-07-21,12000,Evening,Active
+STF0034,Dayamai Kala,Maintenance Staff,TURF043,9208952176,sethinitara@example.org,2025-02-26,25000,Morning,Active
+STF0035,Upkaar Chawla,Security Guard,TURF011,9250507324,balanjairaj@example.com,2023-09-05,30000,Morning,Active
+STF0036,Oliver Dhar,Ground Manager,TURF039,9325027496,buchjyoti@example.net,2022-04-24,35000,Evening,Active
+STF0037,George Mand,Cafeteria Staff,TURF016,9440376543,naksh35@example.net,2025-04-17,25000,Night,Active
+STF0038,Patrick Sant,Coach,TURF047,9803308641,rlad@example.net,2025-04-21,18000,Full-Day,Active
+STF0039,Chanakya Chowdhury,Ground Manager,TURF009,9850504871,phari@example.org,2025-08-16,18000,Morning,On Leave
+STF0040,Nirja Om,Receptionist,TURF008,9772109074,tristansaxena@example.com,2025-03-31,18000,Night,Active
+STF0041,Kevin Sani,Ground Manager,TURF045,9171740034,anaik@example.org,2021-08-06,18000,Full-Day,Active
+STF0042,Upadhriti Aggarwal,Security Guard,TURF033,9573744966,mallickdavid@example.net,2022-02-08,22000,Morning,Active
+STF0043,Ishanvi Dua,Coach,TURF015,9047412081,eyadav@example.org,2023-06-01,25000,Morning,Active
+STF0044,Eshana Venkataraman,Cafeteria Staff,TURF034,9252894043,bansalaryan@example.org,2025-08-30,25000,Evening,Active
+STF0045,Pranav Dave,Receptionist,TURF008,9695775266,morequincy@example.com,2023-07-06,25000,Night,Resigned
+STF0046,Robert Dar,Security Guard,TURF004,9367817524,mbala@example.com,2021-06-07,35000,Morning,Active
+STF0047,Jatin Kalla,Maintenance Staff,TURF016,9298393039,zwadhwa@example.net,2024-06-19,35000,Night,Active
+STF0048,Warda Gala,Ground Manager,TURF024,9885329873,issacjairaj@example.org,2020-07-09,18000,Morning,Active
+STF0049,Hiral Panchal,Security Guard,TURF017,9475473770,zarnaraman@example.org,2025-12-12,18000,Morning,Active
+STF0050,Quincy Sundaram,Ground Manager,TURF027,9945659773,hemanginidatta@example.net,2024-02-23,25000,Full-Day,Active
+STF0051,Indira Kala,Ground Manager,TURF003,9573689108,manbirgara@example.org,2021-04-01,35000,Morning,Active
+STF0052,Utkarsh Gupta,Security Guard,TURF008,9943072188,aaravmani@example.com,2024-07-28,22000,Full-Day,On Leave
+STF0053,Tristan Pandya,Cafeteria Staff,TURF044,9165872363,kaikaran@example.com,2023-10-05,18000,Morning,Active
+STF0054,Gagan Tripathi,Security Guard,TURF017,9867126572,bakhshi76@example.org,2025-01-12,25000,Morning,Active
+STF0055,Tripti Bath,Receptionist,TURF010,9789885249,lopatank@example.org,2025-07-31,30000,Morning,Active
+STF0056,Ryan Raj,Cafeteria Staff,TURF026,9415855373,chaudharyakshay@example.com,2019-04-16,12000,Night,Active
+STF0057,Nachiket Randhawa,Cafeteria Staff,TURF027,9559670716,pandyatristan@example.net,2021-04-12,35000,Night,Active
+STF0058,Gaurav Tailor,Coach,TURF046,9400040756,ilala@example.com,2020-01-27,12000,Evening,Active
+STF0059,Vanya Iyer,Maintenance Staff,TURF008,9079729682,saanvi42@example.org,2019-07-28,15000,Night,Active
+STF0060,Tarak Dua,Receptionist,TURF020,9449799251,neeltrivedi@example.org,2020-09-22,35000,Full-Day,Active
+STF0061,Brinda Kulkarni,Maintenance Staff,TURF027,9475878371,hiraldube@example.net,2023-07-29,12000,Night,Active
+STF0062,Pranav Pandya,Coach,TURF038,9906771853,ybhandari@example.org,2020-08-08,30000,Full-Day,Active
+STF0063,Siddharth Prabhu,Maintenance Staff,TURF041,9304025600,ramachandranxavier@example.net,2020-03-13,18000,Morning,Active
+STF0064,Yash Bhavsar,Security Guard,TURF007,9752707127,walichristopher@example.com,2023-08-03,25000,Full-Day,Active
+STF0065,Vyanjana Majumdar,Ground Manager,TURF028,9642729904,keerabeer@example.com,2021-05-22,15000,Morning,Active
+STF0066,Veer Mody,Security Guard,TURF047,9227025431,naikmanthan@example.org,2023-07-26,22000,Evening,Active
+STF0067,Thomas Rajan,Security Guard,TURF021,9472560467,nandinibhandari@example.net,2024-09-21,25000,Evening,Resigned
+STF0068,Mohini Karnik,Cafeteria Staff,TURF003,9061550261,ypau@example.org,2021-04-16,15000,Night,Active
+STF0069,Aradhana Soni,Ground Manager,TURF040,9220667665,pathakeiravati@example.com,2024-04-14,18000,Morning,Active
+STF0070,Owen Bhavsar,Maintenance Staff,TURF048,9216943532,gabriel64@example.org,2026-02-13,25000,Full-Day,Resigned
+STF0071,Hema Narayan,Maintenance Staff,TURF030,9813805732,bmagar@example.net,2025-03-03,12000,Evening,Active
+STF0072,Keya Kakar,Cafeteria Staff,TURF029,9645552615,shravya87@example.com,2025-04-04,12000,Morning,Active
+STF0073,Darpan Sood,Security Guard,TURF048,9052950868,devanandrew@example.com,2022-11-25,22000,Night,Active
+STF0074,Radhika Dutt,Coach,TURF009,9998962586,bobalwatika@example.org,2021-02-21,25000,Evening,On Leave
+STF0075,Gaurav Doctor,Ground Manager,TURF016,9062551517,ethan39@example.org,2022-07-08,35000,Full-Day,Active
+STF0076,Netra Shere,Receptionist,TURF024,9784953127,cravi@example.net,2019-11-06,35000,Evening,Active
+STF0077,Tanveer Borah,Coach,TURF017,9019762134,poojaswaminathan@example.com,2022-10-01,22000,Morning,Active
+STF0078,Fariq Goyal,Maintenance Staff,TURF044,9265322247,raksharamachandran@example.net,2023-03-23,12000,Morning,Resigned
+STF0079,Triveni Nori,Cafeteria Staff,TURF001,9129719884,wsalvi@example.org,2020-03-15,12000,Night,Active
+STF0080,Dayamai Jain,Coach,TURF050,9126817930,chandlavanya@example.com,2022-05-22,30000,Morning,Active
+STF0081,Raghav Balasubramanian,Cafeteria Staff,TURF002,9990580814,qabil31@example.org,2022-08-18,12000,Evening,Active
+STF0082,Nathan Dara,Ground Manager,TURF046,9810563586,pandeyarjun@example.com,2019-04-14,35000,Morning,Active
+STF0083,Kritika Magar,Ground Manager,TURF007,9669460212,tanmayi47@example.org,2021-08-24,18000,Full-Day,Resigned
+STF0084,Aarav Dey,Cafeteria Staff,TURF028,9125983620,zshetty@example.com,2021-11-23,22000,Night,Active
+STF0085,Radhika Taneja,Coach,TURF036,9591260920,kmishra@example.com,2021-12-15,15000,Evening,Active
+STF0086,Dayamai Chakraborty,Security Guard,TURF017,9571665781,yjaggi@example.com,2023-11-08,15000,Morning,Active
+STF0087,Bahadurjit Kurian,Ground Manager,TURF037,9438964164,bachittar06@example.org,2025-12-29,18000,Morning,Active
+STF0088,Divya Kannan,Receptionist,TURF010,9223072487,cissac@example.net,2025-04-27,22000,Night,Active
+STF0089,Anita Sandhu,Receptionist,TURF012,9955745861,ucchalsastry@example.org,2023-08-20,25000,Morning,Active
+STF0090,Ishita Devan,Receptionist,TURF033,9408354427,ukapoor@example.org,2021-03-30,25000,Night,Active
+STF0091,Kamala Shukla,Receptionist,TURF033,9069656932,golajhalak@example.com,2020-05-26,18000,Full-Day,On Leave
+STF0092,Neel Wadhwa,Receptionist,TURF030,9368312753,turvisachdev@example.net,2023-11-20,18000,Morning,Active
+STF0093,Pooja Mistry,Maintenance Staff,TURF040,9780228017,farhanmurthy@example.net,2025-10-23,22000,Morning,Active
+STF0094,Gautami Ramaswamy,Cafeteria Staff,TURF002,9450269447,baghyawati66@example.org,2023-09-19,15000,Night,Active
+STF0095,Ganga Lala,Maintenance Staff,TURF018,9391032318,timothy44@example.org,2020-01-27,22000,Full-Day,Resigned
+STF0096,Jairaj Randhawa,Security Guard,TURF037,9674772011,xavierkuruvilla@example.com,2026-02-22,30000,Morning,Active
+STF0097,Bhavani Kara,Maintenance Staff,TURF036,9378260187,nimrat40@example.net,2021-08-01,22000,Full-Day,Active
+STF0098,Madhav Kapur,Receptionist,TURF049,9342253939,narasimhanxiti@example.com,2022-11-17,15000,Evening,Active
+STF0099,Vansha Kamdar,Security Guard,TURF024,9277457502,harish32@example.org,2024-07-10,12000,Night,Active
+STF0100,Sanaya Dayal,Maintenance Staff,TURF007,9603638396,ghoseishwar@example.com,2022-02-28,30000,Full-Day,Active
+STF0101,Varenya Narain,Ground Manager,TURF033,9475983589,zilmil53@example.com,2022-05-04,18000,Full-Day,Active
+STF0102,Kamala Nayar,Coach,TURF004,9392853202,xdeo@example.org,2023-04-20,18000,Night,Active
+STF0103,Yash Anne,Cafeteria Staff,TURF027,9467781898,mittalarunima@example.net,2026-03-28,35000,Full-Day,Active
+STF0104,Daksha Raj,Cafeteria Staff,TURF027,9594592118,divanudant@example.net,2019-11-18,18000,Full-Day,Active
+STF0105,Ayaan Dhaliwal,Ground Manager,TURF041,9194737796,hredhaan21@example.org,2022-09-22,15000,Full-Day,Active
+STF0106,Gauri Ramaswamy,Maintenance Staff,TURF033,9499779178,manya35@example.net,2025-07-17,30000,Evening,On Leave
+STF0107,Urishilla Agate,Cafeteria Staff,TURF009,9100142866,kbrar@example.net,2019-03-25,25000,Morning,Active
+STF0108,Ekapad Lal,Security Guard,TURF021,9595149096,chanchal34@example.net,2019-12-18,22000,Morning,Active
+STF0109,Mekhala Rama,Ground Manager,TURF043,9045872422,fradobora@example.org,2019-02-27,22000,Night,On Leave
+STF0110,Chanakya Jayaraman,Security Guard,TURF047,9529483051,qadim36@example.org,2025-08-10,22000,Morning,Active
+STF0111,Bahadurjit Kothari,Receptionist,TURF010,9343353675,dayitashankar@example.com,2022-09-21,30000,Full-Day,Active
+STF0112,Alka Ray,Maintenance Staff,TURF032,9265875031,hritikbahl@example.com,2023-12-25,12000,Night,Active
+STF0113,Shravya Sagar,Ground Manager,TURF038,9407712806,bzachariah@example.org,2023-11-28,12000,Morning,Active
+STF0114,Lohit Mand,Coach,TURF017,9697472171,jbedi@example.net,2023-06-04,35000,Evening,Active
+STF0115,Vidhi Sarma,Security Guard,TURF015,9830325369,devansh74@example.org,2023-02-17,18000,Evening,On Leave
+STF0116,Chasmum Johal,Coach,TURF021,9673507810,dalbir23@example.net,2024-12-19,30000,Full-Day,Active
+STF0117,Champak Gade,Cafeteria Staff,TURF045,9476461261,avnisami@example.com,2021-07-06,18000,Evening,Active
+STF0118,Pratyush Sen,Cafeteria Staff,TURF043,9627564439,nathaniel33@example.org,2021-08-26,35000,Morning,Active
+STF0119,Vivaan Andra,Maintenance Staff,TURF005,9663006362,amoldesai@example.com,2026-01-22,30000,Morning,Active
+STF0120,Hritik Kale,Security Guard,TURF004,9407870481,advaithkarpe@example.org,2023-01-09,12000,Evening,Active
+STF0121,Rudra Kulkarni,Coach,TURF024,9396527295,csidhu@example.org,2021-03-11,25000,Full-Day,Active
+STF0122,Priya Shan,Maintenance Staff,TURF031,9489907129,advaith76@example.org,2019-09-08,25000,Full-Day,Active
+STF0123,Idika Murty,Maintenance Staff,TURF039,9827002933,daksheshghose@example.com,2020-01-29,35000,Morning,Active
+STF0124,Shivansh Bhalla,Cafeteria Staff,TURF009,9374602136,ghosevihaan@example.net,2023-05-21,35000,Night,Active
+STF0125,Vinaya Garde,Coach,TURF032,9291842519,ayushkalita@example.com,2024-05-28,18000,Full-Day,Active
+STF0126,Chakradhar Datta,Maintenance Staff,TURF031,9892235528,tara19@example.net,2023-11-20,18000,Full-Day,Active
+STF0127,Gavin Sha,Coach,TURF028,9228293352,nihaldeo@example.com,2021-03-09,25000,Full-Day,Active
+STF0128,Kashvi Bhardwaj,Coach,TURF032,9359647268,qsachdev@example.net,2020-03-01,30000,Night,On Leave
+STF0129,Harsh Soni,Maintenance Staff,TURF032,9550728310,qnagi@example.com,2021-12-25,12000,Night,Active
+STF0130,Qadim Lalla,Ground Manager,TURF004,9875645058,rajujagvi@example.net,2024-11-25,12000,Morning,Active
+STF0131,Ridhi Dube,Cafeteria Staff,TURF001,9867974476,vdivan@example.net,2020-03-21,12000,Evening,Active
+STF0132,Pranit Dugal,Security Guard,TURF050,9364653334,banjeet95@example.com,2025-02-22,35000,Full-Day,Active
+STF0133,Baghyawati Kumar,Receptionist,TURF048,9379226281,yugsunder@example.org,2025-06-09,25000,Morning,Active
+STF0134,Siya Bose,Maintenance Staff,TURF012,9387345052,harishde@example.org,2021-06-14,12000,Night,Active
+STF0135,Champak Dar,Security Guard,TURF041,9260979629,cvarghese@example.org,2019-01-16,12000,Night,Active
+STF0136,Ojasvi Bedi,Receptionist,TURF038,9660985919,shachandran@example.com,2024-06-16,25000,Morning,Active
+STF0137,Balendra Kar,Security Guard,TURF020,9653978858,indirachawla@example.net,2024-06-08,22000,Night,Active
+STF0138,Isha Gokhale,Maintenance Staff,TURF039,9713198444,imaran71@example.org,2022-11-19,35000,Full-Day,Active
+STF0139,Lucky Tailor,Maintenance Staff,TURF028,9257477743,pkumar@example.org,2021-09-22,22000,Evening,Active
+STF0140,Qabil Gade,Cafeteria Staff,TURF015,9775619189,patelbimala@example.org,2024-09-10,35000,Full-Day,Active
+STF0141,Isaiah Prashad,Receptionist,TURF032,9229000590,krishanagi@example.net,2025-08-24,18000,Night,Active
+STF0142,Lavanya Handa,Security Guard,TURF008,9585405919,aaravzacharia@example.org,2023-11-30,15000,Night,Active
+STF0143,Bimala Menon,Receptionist,TURF012,9712393306,saanvi04@example.net,2022-04-04,18000,Evening,Active
+STF0144,Yashoda Narayanan,Security Guard,TURF013,9598096282,madanucchal@example.org,2023-02-18,30000,Morning,Active
+STF0145,Advaith Prasad,Cafeteria Staff,TURF001,9757882737,rtripathi@example.com,2024-11-21,35000,Full-Day,Active
+STF0146,Dhriti Gupta,Receptionist,TURF038,9983666097,qtaneja@example.net,2024-04-04,30000,Full-Day,Active
+STF0147,Mekhala Sane,Ground Manager,TURF021,9445072962,nathanielnadig@example.com,2022-10-04,25000,Morning,Active
+STF0148,Amrita Goyal,Receptionist,TURF002,9226527825,etank@example.com,2023-12-14,18000,Full-Day,Active
+STF0149,Nathaniel Parmer,Coach,TURF022,9156711775,anaysahota@example.org,2025-12-19,15000,Full-Day,Active
+STF0150,Ikshita Chacko,Ground Manager,TURF041,9987088407,krishbala@example.net,2022-07-17,18000,Night,Active

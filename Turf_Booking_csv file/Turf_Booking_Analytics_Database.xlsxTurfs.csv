@@ -1,0 +1,51 @@
+TurfID,TurfName,City,State,Address,SportType,SurfaceType,SizeSqFt,HourlyRate,Capacity,Amenities,OwnerName,ContactNumber,OpeningTime,ClosingTime,RatingAvg,ActiveSince
+TURF001,Pradhan Play Zone,Kolkata,West Bengal,"00, Mitra Nagar, Bihar Sharif 204664",Basketball,Cement,6000,1000,16,"Floodlights, Cafeteria, Locker Room",Raagini Tank,9437795076,06:00,23:00,4.8,2021-01-12
+TURF002,Roy Sports Complex,Coimbatore,Tamil Nadu,"42, Mukhopadhyay Nagar, Bhusawal 775809",Basketball,Hardwood,8000,2500,16,"Floodlights, Parking",Darika Nagar,9251225846,06:00,23:00,3.9,2022-04-28
+TURF003,Kant Sports Complex,Chennai,Tamil Nadu,"23, Kuruvilla Path, Eluru-265401",Cricket,Hardwood,12000,1000,14,"Floodlights, Parking, Washroom, Cafeteria",Gaurika Palan,9929496523,06:00,23:00,4.6,2021-03-24
+TURF004,Karnik Turf Club,Pune,Maharashtra,"62/212, Menon Street, Bidhannagar 774625",Football,Natural Grass,12000,1000,30,"Parking, Washroom",Madhavi Bala,9407008415,06:00,23:00,4.1,2019-06-18
+TURF005,Chawla Sports Complex,Pune,Maharashtra,"H.No. 11, Thakur Path, Deoghar 008017",Badminton,Clay,10000,1200,22,"Parking, Washroom",Vasana Talwar,9385139763,06:00,23:00,3.7,2022-06-13
+TURF006,Datta Play Zone,Kochi,Kerala,"995, Arya Chowk, Amroha-642612",Cricket,Artificial Turf (Synthetic),10000,1500,14,"Floodlights, Parking, Washroom",Nitesh Bera,9408520633,06:00,23:00,3.5,2021-04-14
+TURF007,Jani Ground,Bengaluru,Karnataka,"75/365, Raju, Surendranagar Dudhrej 254824",Pickleball,Cement,5000,1500,14,"Locker Room, Washroom",Jatin Kaul,9265933804,06:00,23:00,3.2,2022-06-09
+TURF008,Thakur Sports Complex,Coimbatore,Tamil Nadu,"H.No. 40, Sanghvi Nagar, Farrukhabad 475231",Cricket,Natural Grass,5000,1000,14,"Floodlights, Parking, Washroom",Logan Hari,9854418436,06:00,23:00,4.3,2023-11-07
+TURF009,Dube Sports Arena,Chennai,Tamil Nadu,"97/91, Sarma Chowk, Tiruppur-427203",Badminton,Acrylic,8000,1000,10,"Floodlights, Cafeteria, Locker Room",Omkaar Bora,9788021093,06:00,23:00,4.9,2021-09-21
+TURF010,Soman Sports Complex,Coimbatore,Tamil Nadu,"80/196, Barman Ganj, Ozhukarai 069358",Pickleball,Cement,5000,2500,22,"Parking, Washroom",Amara Karnik,9764554590,06:00,23:00,3.4,2021-10-29
+TURF011,Narayanan Play Zone,Kolkata,West Bengal,"H.No. 018, Randhawa Zila, Bhalswa Jahangir Pur-816524",Volleyball,Artificial Turf (Synthetic),6000,2500,10,"Floodlights, Parking, Washroom",Aachal Parsa,9026939553,06:00,23:00,3.5,2019-04-11
+TURF012,Lal Turf Club,Kolkata,West Bengal,"H.No. 838, Bhatti Path, Madanapalle 781053",Badminton,Acrylic,5000,1000,10,"Floodlights, Cafeteria, Locker Room",Manan Yadav,9514855070,06:00,23:00,3.3,2020-05-27
+TURF013,Shan Sports Complex,Kochi,Kerala,"99/69, Varkey Circle, Khora  457927",Badminton,Natural Grass,7000,1500,16,"Floodlights, Parking",Anusha Sengupta,9151448762,06:00,23:00,3.2,2021-05-10
+TURF014,Devan Play Zone,Ahmedabad,Gujarat,"019, Raj Circle, Akola 238397",Basketball,Acrylic,5000,1500,30,"Floodlights, Parking, Washroom, Cafeteria",Warinder Khanna,9302940695,06:00,23:00,4.7,2019-12-12
+TURF015,Chauhan Turf Club,Hyderabad,Telangana,"87/062, Kade, Hazaribagh-983221",Football,Artificial Turf (Synthetic),10000,2500,16,"Locker Room, Washroom",Jackson Aurora,9937712582,06:00,23:00,4.1,2021-12-22
+TURF016,Goyal Ground,Kolkata,West Bengal,"H.No. 018, Shenoy Marg, Nadiad-008987",Cricket,Acrylic,12000,2000,30,"Parking, Washroom",Jairaj Apte,9951659919,06:00,23:00,3.6,2023-09-09
+TURF017,Chacko Sports Complex,Pune,Maharashtra,"H.No. 61, Bhatia Road, Begusarai 531980",Tennis,Hardwood,12000,1200,14,"Floodlights, Cafeteria, Locker Room",Anya Sama,9900415242,06:00,23:00,5,2023-12-05
+TURF018,Devi Ground,Kochi,Kerala,"H.No. 69, Chaudhari Path, Delhi-076205",Pickleball,Hardwood,6000,1200,22,"Floodlights, Parking, Washroom",Forum Raghavan,9189779501,06:00,23:00,4.8,2020-09-08
+TURF019,Sarma Ground,Coimbatore,Tamil Nadu,"H.No. 066, Sami Marg, Tiruchirappalli 065411",Football,Acrylic,12000,1000,22,"Floodlights, Parking, Washroom, Cafeteria",Baghyawati Agarwal,9250280041,06:00,23:00,3.9,2022-12-27
+TURF020,Sekhon Play Zone,Coimbatore,Tamil Nadu,"99, Singh Road, Nagaon 583668",Basketball,Acrylic,12000,1500,10,"Floodlights, Parking",Chaitaly Dhaliwal,9316134079,06:00,23:00,4.2,2023-07-01
+TURF021,Purohit Play Zone,Kochi,Kerala,"97, Wable Nagar, Panvel-888917",Tennis,Cement,6000,2500,14,"Floodlights, Parking, Washroom, Cafeteria",Elijah Patla,9542832867,06:00,23:00,4.4,2021-10-25
+TURF022,Balasubramanian Sports Arena,Bengaluru,Karnataka,"571, Sha, Lucknow 201265",Volleyball,Cement,7000,1800,30,"Floodlights, Parking, Washroom",Rachit Rai,9557155661,06:00,23:00,4.7,2021-04-29
+TURF023,Aurora Sports Arena,Kolkata,West Bengal,"09/52, Shenoy Zila, Thanjavur 177741",Tennis,Clay,5000,1500,14,"Floodlights, Parking, Washroom, Cafeteria",Vinaya Minhas,9460595516,06:00,23:00,3.2,2019-05-27
+TURF024,Rajan Sports Complex,Mumbai,Maharashtra,"H.No. 882, Chanda Road, Durgapur-422297",Volleyball,Artificial Turf (Synthetic),5000,1000,16,"Parking, Washroom",Yauvani Borde,9182569619,06:00,23:00,3.3,2019-10-25
+TURF025,Sengupta Play Zone,Kochi,Kerala,"54/218, Memon Path, Shivpuri 568209",Pickleball,Clay,12000,2500,22,"Locker Room, Washroom",Jonathan Peri,9784879896,06:00,23:00,4.5,2019-06-24
+TURF026,Taneja Sports Arena,Kochi,Kerala,"01/635, Maharaj Marg, Jaunpur 324728",Basketball,Hardwood,5000,1500,10,"Parking, Washroom",Falak Mammen,9369225916,06:00,23:00,3.5,2020-04-26
+TURF027,Ahluwalia Sports Complex,Bengaluru,Karnataka,"88, Dyal Street, Bidhannagar 126168",Badminton,Hardwood,7000,1800,10,"Floodlights, Parking, Washroom",Abeer Subramaniam,9763191986,06:00,23:00,3.5,2022-10-29
+TURF028,Bhatti Play Zone,Chennai,Tamil Nadu,"01/19, Agarwal Path, Madhyamgram 152610",Volleyball,Artificial Turf (Synthetic),12000,1500,10,"Floodlights, Parking, Washroom, Cafeteria",Utkarsh Sastry,9223063567,06:00,23:00,3.4,2023-02-18
+TURF029,Bera Play Zone,Coimbatore,Tamil Nadu,"H.No. 071, Murthy Marg, Kolkata-418948",Pickleball,Cement,8000,2000,16,"Floodlights, Cafeteria, Locker Room",Chaaya Karan,9984104003,06:00,23:00,4.7,2019-11-23
+TURF030,Dhaliwal Turf Club,Mumbai,Maharashtra,"89/36, Deep Path, Alwar-161982",Football,Artificial Turf (Synthetic),6000,2500,30,"Floodlights, Cafeteria, Locker Room",Samaksh Mukhopadhyay,9746352356,06:00,23:00,3.2,2022-02-14
+TURF031,Yohannan Turf Club,Hyderabad,Telangana,"10/450, Pandey Street, Korba 174357",Football,Clay,4000,2000,22,"Floodlights, Parking",Wyatt Nazareth,9958621853,06:00,23:00,4.8,2022-09-23
+TURF032,Doshi Turf Club,Bengaluru,Karnataka,"48, Barad Marg, Sultan Pur Majra-983448",Cricket,Clay,12000,800,22,"Floodlights, Parking, Washroom, Cafeteria",Chavvi Goel,9903666636,06:00,23:00,4.3,2022-06-16
+TURF033,Nadkarni Ground,Coimbatore,Tamil Nadu,"46/280, Natt Path, Amroha-406579",Badminton,Natural Grass,10000,1000,14,"Floodlights, Parking, Washroom, Cafeteria",Indira Buch,9598450337,06:00,23:00,4.2,2023-01-08
+TURF034,Patla Sports Arena,Kolkata,West Bengal,"920, Bandi, Anantapur-074091",Tennis,Artificial Turf (Synthetic),7000,1200,14,"Parking, Washroom",Harish Chacko,9313245275,06:00,23:00,3.8,2023-08-28
+TURF035,Chaudhry Sports Arena,Kolkata,West Bengal,"H.No. 902, Merchant Path, Pali-220695",Volleyball,Acrylic,5000,800,16,"Floodlights, Parking, Washroom, Cafeteria",Divya Loyal,9878071265,06:00,23:00,3.3,2023-10-06
+TURF036,Chacko Ground,Pune,Maharashtra,"H.No. 227, Parikh Path, Hyderabad-601515",Cricket,Hardwood,5000,2500,30,"Locker Room, Washroom",Qadim Palan,9388201514,06:00,23:00,4.2,2021-06-23
+TURF037,Lad Ground,Kochi,Kerala,"H.No. 740, Chaudhry Chowk, Jhansi-798059",Tennis,Natural Grass,5000,1500,10,"Floodlights, Parking, Washroom, Cafeteria",Ayaan Kashyap,9576528226,06:00,23:00,3.2,2022-03-08
+TURF038,Bhatti Ground,Delhi,Delhi,"49, Modi Ganj, Kurnool 045203",Tennis,Acrylic,12000,800,14,"Locker Room, Washroom",Chakradev Toor,9484943457,06:00,23:00,4,2023-07-15
+TURF039,Mane Turf Club,Kochi,Kerala,"49/13, Ghosh Path, Sri Ganganagar 595205",Cricket,Clay,8000,2500,22,"Parking, Washroom",Ekavir Bandi,9500915956,06:00,23:00,4.5,2021-11-21
+TURF040,Bhargava Ground,Hyderabad,Telangana,"90/06, Sangha, Srinagar-774037",Basketball,Acrylic,10000,2000,16,"Locker Room, Washroom",Jeremiah Kamdar,9360194127,06:00,23:00,3.1,2021-02-23
+TURF041,Hari Turf Club,Ahmedabad,Gujarat,"53/00, Swaminathan Marg, Burhanpur 550325",Volleyball,Cement,4000,2000,30,"Floodlights, Parking, Washroom, Cafeteria",Elijah Tak,9807202033,06:00,23:00,4.1,2022-01-29
+TURF042,Kala Sports Arena,Bengaluru,Karnataka,"H.No. 26, Mangal Street, Jaunpur-290292",Badminton,Clay,8000,1500,22,"Floodlights, Parking, Washroom, Cafeteria",Timothy Morar,9637203734,06:00,23:00,4.5,2021-10-27
+TURF043,Narayanan Sports Complex,Kochi,Kerala,"H.No. 090, Batra Marg, Sambalpur 886843",Volleyball,Cement,4000,1500,10,"Locker Room, Washroom",Max Dada,9056574396,06:00,23:00,4,2019-03-11
+TURF044,Chakrabarti Sports Complex,Pune,Maharashtra,"32, Ahuja, Thanjavur-598875",Hockey,Artificial Turf (Synthetic),8000,1000,10,"Floodlights, Parking, Washroom, Cafeteria",Gagan Garg,9490954688,06:00,23:00,4,2020-05-08
+TURF045,Sampath Ground,Delhi,Delhi,"03, Saini Ganj, Bangalore 755821",Hockey,Natural Grass,4000,2500,14,"Parking, Washroom",Turvi Sheth,9312926625,06:00,23:00,3.5,2021-10-11
+TURF046,Bakshi Ground,Chennai,Tamil Nadu,"11, Edwin Path, Jamalpur-236219",Football,Hardwood,8000,800,16,"Floodlights, Parking, Washroom",Ekansh Pandit,9146159700,06:00,23:00,3.1,2022-04-02
+TURF047,Vohra Turf Club,Chennai,Tamil Nadu,"05/916, Choudhury Zila, Rajpur Sonarpur 588195",Pickleball,Clay,8000,1200,16,"Floodlights, Parking, Washroom, Cafeteria",Upma Ganesh,9734743693,06:00,23:00,4.6,2022-07-26
+TURF048,Chandra Sports Arena,Ahmedabad,Gujarat,"05/378, Kalita, Motihari-928972",Tennis,Artificial Turf (Synthetic),4000,1800,30,"Parking, Washroom",Garima Mukhopadhyay,9967183213,06:00,23:00,4.9,2020-12-18
+TURF049,Bera Turf Club,Hyderabad,Telangana,"720, Goel Nagar, Srikakulam 823220",Tennis,Hardwood,10000,800,10,"Floodlights, Parking, Washroom",Gaurang Mall,9903594094,06:00,23:00,3.3,2022-03-28
+TURF050,Mallick Play Zone,Bengaluru,Karnataka,"32/811, Parsa Marg, Hyderabad-020304",Badminton,Clay,7000,1800,30,"Floodlights, Parking",Theodore Deep,9903238876,06:00,23:00,5,2021-03-08

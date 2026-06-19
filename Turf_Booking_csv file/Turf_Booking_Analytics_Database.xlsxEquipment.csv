@@ -1,0 +1,301 @@
+EquipmentID,TurfID,EquipmentName,Quantity,PurchaseDate,PurchaseCost,Condition,LastInspectionDate,Supplier
+EQP0001,TURF031,Cricket Ball Set,16,2019-09-02,3500,Good,2020-05-05,Sridhar-Mall
+EQP0002,TURF039,Scoreboard,20,2022-12-16,3500,Good,2023-11-05,"Kibe, Mitter and Comar"
+EQP0003,TURF012,Scoreboard,7,2023-03-27,1200,Needs Replacement,2025-06-13,"Sodhi, Kumer and Sen"
+EQP0004,TURF023,Goal Post Net,15,2023-01-20,800,Good,2025-10-16,Shetty-Lata
+EQP0005,TURF047,Cones Set,14,2021-06-21,300,Fair,2024-09-06,"Gera, Saran and Seshadri"
+EQP0006,TURF009,Basketball,10,2020-03-11,300,Good,2023-08-29,Kibe and Sons
+EQP0007,TURF044,Volleyball,17,2025-05-25,3500,Worn,2026-03-24,"Bava, Vora and Lad"
+EQP0008,TURF018,Shuttlecock Box,4,2023-03-30,8000,New,2024-10-12,Parsa Group
+EQP0009,TURF033,Football,11,2019-04-09,1200,Fair,2021-04-01,Varkey and Sons
+EQP0010,TURF021,Volleyball,15,2025-07-01,800,Fair,2026-06-16,Ganguly-Mody
+EQP0011,TURF008,Goal Post Net,11,2019-10-23,5000,Good,2021-04-13,Biswas Inc
+EQP0012,TURF030,Basketball,15,2023-07-02,3500,New,2025-07-30,Wali-Wason
+EQP0013,TURF033,Shuttlecock Box,6,2025-02-28,800,Needs Replacement,2025-10-05,Upadhyay PLC
+EQP0014,TURF001,Cricket Bat,3,2019-02-12,5000,Fair,2019-05-03,Dhaliwal-Lad
+EQP0015,TURF012,Volleyball,10,2020-11-20,800,Fair,2021-08-05,"Badami, Ray and Pal"
+EQP0016,TURF029,Cricket Ball Set,16,2020-02-17,2000,Good,2020-05-24,Reddy-Sura
+EQP0017,TURF050,Volleyball,9,2021-03-25,8000,Worn,2025-12-14,Manne-Bal
+EQP0018,TURF015,Basketball,1,2022-11-08,300,New,2026-01-11,"Kanda, Aurora and Bora"
+EQP0019,TURF003,Bibs Set,17,2019-01-27,500,Needs Replacement,2025-03-12,"Golla, Sant and Ray"
+EQP0020,TURF014,Cricket Ball Set,14,2023-11-06,5000,Good,2024-06-19,Choudhry Ltd
+EQP0021,TURF021,Basketball,11,2025-05-22,300,Needs Replacement,2026-04-07,"Kakar, Lala and Mitter"
+EQP0022,TURF038,Goal Post Net,3,2020-04-16,5000,Worn,2024-12-04,Jaggi and Sons
+EQP0023,TURF034,Football,12,2023-12-12,300,Good,2024-04-04,Boase-Mander
+EQP0024,TURF032,Cones Set,14,2020-11-02,8000,Needs Replacement,2026-01-31,Balakrishnan-Desai
+EQP0025,TURF050,Basketball,15,2024-12-22,1200,New,2026-05-24,Balasubramanian Ltd
+EQP0026,TURF030,Badminton Racket,6,2023-10-10,800,Needs Replacement,2026-05-04,Manda-Golla
+EQP0027,TURF001,Tennis Racket,20,2022-11-13,8000,Needs Replacement,2024-03-22,Khanna-Comar
+EQP0028,TURF022,Cones Set,5,2023-12-16,5000,New,2025-11-15,Shankar Inc
+EQP0029,TURF010,Football,7,2025-04-05,2000,Needs Replacement,2026-03-18,Lall Ltd
+EQP0030,TURF050,Cricket Bat,9,2026-02-23,8000,Fair,2026-03-27,Deep Ltd
+EQP0031,TURF020,Volleyball,12,2022-12-27,1200,Good,2025-08-14,Toor-Bal
+EQP0032,TURF032,Tennis Racket,8,2021-12-02,2000,Good,2023-01-02,"Sood, Edwin and Varghese"
+EQP0033,TURF045,Volleyball,4,2022-09-20,2000,Fair,2024-11-17,Banerjee PLC
+EQP0034,TURF014,Bibs Set,10,2023-04-07,500,Worn,2023-09-07,Ramakrishnan and Sons
+EQP0035,TURF016,Scoreboard,18,2025-11-14,5000,Worn,2026-01-02,Kota and Sons
+EQP0036,TURF007,Volleyball,16,2019-03-07,1200,New,2022-08-24,Kakar-Bedi
+EQP0037,TURF005,Cones Set,6,2020-02-27,3500,Fair,2020-11-30,Khatri-Krishnan
+EQP0038,TURF025,Scoreboard,3,2020-12-21,500,Good,2025-09-22,Kohli-Sandhu
+EQP0039,TURF035,Volleyball,18,2020-02-18,3500,Fair,2026-06-03,Basak and Sons
+EQP0040,TURF048,Cricket Ball Set,15,2024-06-27,300,Needs Replacement,2026-05-20,"Merchant, Dada and Chatterjee"
+EQP0041,TURF049,Badminton Racket,1,2020-07-31,8000,Worn,2023-10-05,"Chada, Dugar and Srivastava"
+EQP0042,TURF041,Volleyball,14,2025-11-12,3500,Needs Replacement,2025-12-18,Kulkarni-Amble
+EQP0043,TURF043,Volleyball,20,2022-08-19,2000,Fair,2024-06-27,Dayal-Bassi
+EQP0044,TURF003,Basketball,8,2021-06-11,300,Fair,2022-04-19,"Nigam, Chopra and Narula"
+EQP0045,TURF025,Football,2,2026-01-26,500,Needs Replacement,2026-05-09,"Pillai, Karnik and Kala"
+EQP0046,TURF050,Football,7,2022-12-01,8000,Good,2025-03-05,Nadkarni LLC
+EQP0047,TURF018,Bibs Set,19,2020-01-21,3500,Needs Replacement,2024-02-21,Kulkarni LLC
+EQP0048,TURF008,Bibs Set,9,2024-07-08,1200,Needs Replacement,2025-08-16,Chacko-Hegde
+EQP0049,TURF022,Cones Set,3,2025-08-27,300,New,2026-05-08,Chauhan Inc
+EQP0050,TURF026,Volleyball,2,2021-10-10,800,New,2023-08-21,Vohra and Sons
+EQP0051,TURF048,Cricket Ball Set,4,2021-07-15,5000,New,2025-04-01,Wadhwa Group
+EQP0052,TURF003,Cricket Ball Set,2,2023-06-12,5000,Fair,2025-05-31,"Bhakta, Keer and Rege"
+EQP0053,TURF008,Bibs Set,18,2026-04-07,5000,Good,2026-04-21,Sharaf Inc
+EQP0054,TURF001,Football,14,2024-07-29,5000,New,2025-02-03,Sabharwal Inc
+EQP0055,TURF016,Cricket Bat,17,2024-07-19,8000,Worn,2025-10-07,Dube-Dhar
+EQP0056,TURF005,Tennis Racket,1,2023-02-08,800,Worn,2023-07-04,Nigam PLC
+EQP0057,TURF009,Cones Set,1,2024-03-16,3500,Needs Replacement,2025-01-02,Sant Group
+EQP0058,TURF042,Goal Post Net,13,2024-01-04,8000,Worn,2025-10-23,Johal PLC
+EQP0059,TURF016,Tennis Racket,8,2019-05-30,1200,New,2020-09-11,"Tak, Lata and Andra"
+EQP0060,TURF019,Badminton Racket,17,2021-09-05,800,Fair,2022-05-28,"Wali, Bahri and Dave"
+EQP0061,TURF024,Shuttlecock Box,12,2025-06-07,5000,Fair,2026-03-05,"Bath, Trivedi and Narasimhan"
+EQP0062,TURF047,Volleyball,7,2020-06-30,1200,Needs Replacement,2025-03-12,"Goda, Prabhu and Merchant"
+EQP0063,TURF022,Volleyball,4,2025-07-13,8000,Fair,2025-07-22,Sampath-Wable
+EQP0064,TURF031,Cricket Ball Set,13,2019-12-30,1200,Needs Replacement,2022-02-02,Sharaf-Chandra
+EQP0065,TURF005,Bibs Set,11,2024-09-29,5000,Fair,2025-09-11,"Subramaniam, Gaba and Shetty"
+EQP0066,TURF002,Cricket Bat,5,2020-11-12,500,Fair,2022-04-14,"Varty, Bala and Gokhale"
+EQP0067,TURF034,Goal Post Net,16,2024-03-25,300,Fair,2025-05-25,"Sha, Gala and Krishnan"
+EQP0068,TURF040,Volleyball,3,2022-11-19,800,Good,2025-03-16,Vohra Ltd
+EQP0069,TURF048,Cricket Ball Set,11,2022-07-28,8000,Fair,2026-01-27,Pillai-Purohit
+EQP0070,TURF009,Shuttlecock Box,20,2024-06-24,3500,Needs Replacement,2024-08-07,Dua LLC
+EQP0071,TURF018,Cricket Ball Set,7,2020-06-02,2000,Fair,2023-05-29,Som-Kohli
+EQP0072,TURF044,Football,3,2022-02-09,1200,New,2026-03-04,Devi-Buch
+EQP0073,TURF006,Cones Set,10,2019-03-20,300,Needs Replacement,2022-09-02,Dugal-Rajan
+EQP0074,TURF022,Scoreboard,3,2025-02-12,3500,Needs Replacement,2026-01-28,Taneja-Mane
+EQP0075,TURF039,Football,11,2023-09-02,800,Needs Replacement,2026-06-02,"Vora, Sarna and Chauhan"
+EQP0076,TURF015,Shuttlecock Box,20,2020-09-13,800,New,2025-04-03,Bal LLC
+EQP0077,TURF008,Scoreboard,12,2023-11-26,2000,Needs Replacement,2024-02-20,Sastry-Khatri
+EQP0078,TURF016,Badminton Racket,10,2019-11-14,300,Worn,2023-03-11,Thakkar Ltd
+EQP0079,TURF032,Basketball,15,2026-04-25,1200,Good,2026-06-17,Gala-Loyal
+EQP0080,TURF020,Cricket Bat,13,2025-11-29,300,Needs Replacement,2026-05-16,Bath LLC
+EQP0081,TURF019,Basketball,16,2022-09-22,300,Fair,2023-03-22,Thakur-Buch
+EQP0082,TURF031,Cones Set,13,2021-08-03,800,Worn,2023-08-03,"Raman, Hans and Thaman"
+EQP0083,TURF048,Badminton Racket,19,2020-12-07,3500,Fair,2024-04-12,Prakash LLC
+EQP0084,TURF003,Badminton Racket,19,2020-03-15,8000,Good,2023-03-25,Rana LLC
+EQP0085,TURF034,Cricket Bat,11,2020-09-29,1200,New,2025-04-18,"Srinivasan, Pillay and Choudhury"
+EQP0086,TURF044,Cricket Bat,17,2019-02-08,1200,Fair,2025-10-17,Sood LLC
+EQP0087,TURF024,Cricket Bat,15,2022-12-11,500,Worn,2024-08-07,Deol-Randhawa
+EQP0088,TURF023,Cricket Ball Set,5,2022-04-25,500,New,2022-08-28,"Gara, De and Ram"
+EQP0089,TURF035,Scoreboard,1,2023-11-09,1200,Needs Replacement,2024-10-13,"Mukhopadhyay, Dubey and Bal"
+EQP0090,TURF017,Badminton Racket,13,2019-08-16,1200,New,2024-08-02,"Dhar, Goda and Chakraborty"
+EQP0091,TURF019,Basketball,12,2021-05-31,5000,Fair,2025-09-05,Sangha Inc
+EQP0092,TURF016,Bibs Set,4,2022-02-01,300,Worn,2025-06-20,Soni-Sha
+EQP0093,TURF033,Shuttlecock Box,10,2024-02-29,2000,New,2025-07-05,"Edwin, Srinivas and Bawa"
+EQP0094,TURF018,Bibs Set,7,2019-11-01,800,Worn,2025-11-26,Kata Group
+EQP0095,TURF006,Cricket Bat,8,2021-01-11,5000,Fair,2024-10-09,"Deol, Narang and Hayre"
+EQP0096,TURF014,Scoreboard,14,2022-04-24,5000,Good,2024-05-04,Kalita-Dyal
+EQP0097,TURF040,Scoreboard,12,2022-01-18,3500,Good,2022-10-08,Bajwa LLC
+EQP0098,TURF014,Goal Post Net,11,2021-05-01,3500,Fair,2023-11-17,Rout-Kannan
+EQP0099,TURF008,Cricket Ball Set,20,2020-03-14,300,Good,2021-11-16,"Maharaj, Mall and Pradhan"
+EQP0100,TURF031,Cones Set,6,2021-12-17,5000,Worn,2023-03-04,Dixit-Dutt
+EQP0101,TURF033,Cricket Ball Set,7,2022-07-10,2000,Fair,2025-07-31,Comar-Tripathi
+EQP0102,TURF010,Volleyball,10,2023-12-27,300,New,2024-06-18,Som-Raval
+EQP0103,TURF008,Scoreboard,7,2022-04-13,300,New,2025-11-07,Garde-Swaminathan
+EQP0104,TURF002,Volleyball,19,2021-12-10,8000,New,2024-12-20,Padmanabhan PLC
+EQP0105,TURF016,Badminton Racket,17,2020-07-17,300,Worn,2025-07-05,"Tripathi, Mander and Rai"
+EQP0106,TURF048,Cones Set,15,2026-01-11,8000,Needs Replacement,2026-04-05,Buch Group
+EQP0107,TURF001,Tennis Racket,17,2025-10-15,800,New,2026-01-13,Palla-Patla
+EQP0108,TURF045,Cricket Ball Set,8,2020-04-06,500,Worn,2024-12-03,Doctor-Gaba
+EQP0109,TURF009,Football,7,2019-01-05,800,Worn,2026-05-03,"Dasgupta, Sehgal and Bobal"
+EQP0110,TURF038,Tennis Racket,5,2022-03-28,2000,Needs Replacement,2024-11-10,Samra-Taneja
+EQP0111,TURF024,Volleyball,5,2024-04-05,8000,New,2024-08-06,Dara-Zacharia
+EQP0112,TURF008,Bibs Set,11,2021-08-06,5000,Fair,2024-01-30,"Bajaj, Murthy and Balan"
+EQP0113,TURF047,Volleyball,15,2019-12-13,5000,Needs Replacement,2025-08-19,Wali-Issac
+EQP0114,TURF015,Football,5,2022-09-03,1200,Good,2023-12-27,"Dara, Majumdar and Ravel"
+EQP0115,TURF013,Shuttlecock Box,10,2024-05-10,300,Needs Replacement,2026-06-07,Chatterjee Ltd
+EQP0116,TURF021,Tennis Racket,17,2020-04-17,3500,Good,2024-08-05,"Mani, Chaudhari and Srinivas"
+EQP0117,TURF012,Cricket Bat,19,2023-10-22,8000,Good,2026-03-09,"Palla, Tara and Prabhakar"
+EQP0118,TURF026,Scoreboard,5,2025-05-20,300,Good,2025-10-07,"Chakraborty, Chauhan and Ranganathan"
+EQP0119,TURF011,Basketball,14,2023-09-11,5000,Needs Replacement,2023-10-21,Sanghvi PLC
+EQP0120,TURF007,Shuttlecock Box,5,2020-10-23,300,Good,2024-08-10,"Bail, Shanker and Rao"
+EQP0121,TURF038,Scoreboard,7,2022-08-01,800,Good,2024-04-12,Issac-Saran
+EQP0122,TURF048,Goal Post Net,14,2025-04-01,1200,New,2026-06-06,Sharaf Ltd
+EQP0123,TURF014,Cones Set,10,2026-02-09,8000,Worn,2026-04-15,Din Ltd
+EQP0124,TURF026,Cricket Bat,7,2020-02-03,1200,Needs Replacement,2020-07-24,"Singhal, Chaudhuri and Mittal"
+EQP0125,TURF025,Bibs Set,2,2023-09-22,8000,Needs Replacement,2024-10-19,Kakar-Chacko
+EQP0126,TURF014,Scoreboard,17,2024-11-06,3500,Needs Replacement,2025-04-11,"Shenoy, Kata and Doshi"
+EQP0127,TURF033,Bibs Set,10,2025-07-21,500,Worn,2026-05-01,Bora-Luthra
+EQP0128,TURF005,Football,7,2021-08-11,300,Fair,2024-12-02,Mane-Sahni
+EQP0129,TURF039,Tennis Racket,1,2022-10-17,8000,Worn,2026-06-01,Sanghvi Ltd
+EQP0130,TURF019,Cricket Ball Set,1,2026-05-15,5000,Worn,2026-05-21,Shukla Group
+EQP0131,TURF036,Football,6,2019-04-07,800,Fair,2021-09-30,Bakshi-Kant
+EQP0132,TURF044,Football,1,2019-08-20,2000,Fair,2025-10-31,"Sodhi, Bora and Varughese"
+EQP0133,TURF025,Scoreboard,3,2022-06-06,300,Good,2024-09-13,"Muni, Mitter and Tandon"
+EQP0134,TURF013,Cricket Ball Set,9,2026-02-11,800,Fair,2026-02-16,Shanker Inc
+EQP0135,TURF008,Badminton Racket,8,2024-01-03,3500,New,2024-10-15,Nazareth-Majumdar
+EQP0136,TURF024,Bibs Set,16,2019-10-05,300,Needs Replacement,2019-12-26,"Gill, Das and Keer"
+EQP0137,TURF044,Cricket Bat,9,2019-03-22,8000,Good,2021-06-19,Mandal-Soni
+EQP0138,TURF028,Cones Set,5,2021-01-29,3500,Needs Replacement,2026-03-14,"Pant, Halder and Pradhan"
+EQP0139,TURF047,Volleyball,9,2019-10-04,2000,Fair,2022-05-21,Tella LLC
+EQP0140,TURF003,Scoreboard,14,2021-02-21,2000,Fair,2024-06-20,"Saini, Chacko and Ghosh"
+EQP0141,TURF023,Scoreboard,1,2021-03-16,800,Worn,2026-03-03,"Oza, Narang and Om"
+EQP0142,TURF048,Tennis Racket,15,2022-04-04,500,Fair,2025-08-21,"Gola, Grewal and Borah"
+EQP0143,TURF049,Cones Set,13,2019-12-23,300,Good,2024-09-30,"Mitra, Rastogi and Issac"
+EQP0144,TURF025,Cricket Ball Set,20,2023-05-01,8000,Worn,2023-06-03,"Deo, Yadav and Singh"
+EQP0145,TURF030,Goal Post Net,6,2023-07-19,800,Needs Replacement,2024-08-18,"Dasgupta, Borde and Sampath"
+EQP0146,TURF045,Scoreboard,11,2025-10-14,500,Good,2025-11-14,Naik Ltd
+EQP0147,TURF017,Scoreboard,14,2020-07-18,800,Fair,2025-09-14,"Kashyap, Chauhan and Kamdar"
+EQP0148,TURF029,Goal Post Net,9,2024-12-14,500,Worn,2025-04-09,Bhandari-Thaman
+EQP0149,TURF012,Cricket Bat,15,2020-12-18,8000,Needs Replacement,2024-03-31,Dugar Ltd
+EQP0150,TURF018,Football,8,2021-11-15,2000,Good,2023-09-18,Dhingra and Sons
+EQP0151,TURF003,Cricket Ball Set,15,2026-05-23,5000,Fair,2026-06-15,"Narasimhan, Brar and Roy"
+EQP0152,TURF038,Cricket Bat,11,2025-01-16,8000,New,2025-03-20,"Raju, Chauhan and Bhakta"
+EQP0153,TURF042,Basketball,8,2024-02-13,3500,Good,2025-05-15,Mangal-Rajagopal
+EQP0154,TURF017,Bibs Set,18,2019-11-29,800,New,2022-06-16,Krishnan-Kakar
+EQP0155,TURF021,Goal Post Net,9,2024-01-24,1200,Fair,2025-03-09,"Dewan, Anne and Sane"
+EQP0156,TURF010,Volleyball,5,2026-04-07,300,Fair,2026-05-29,Bhavsar Inc
+EQP0157,TURF026,Cones Set,1,2021-05-08,5000,Worn,2023-07-03,Ravi-Nagy
+EQP0158,TURF028,Cricket Ball Set,20,2024-11-01,500,Good,2025-09-19,Wason-Gola
+EQP0159,TURF039,Bibs Set,10,2022-11-01,1200,Fair,2023-11-26,"Murthy, Shan and Wali"
+EQP0160,TURF008,Volleyball,14,2026-05-26,3500,Good,2026-06-15,Srinivas-Natarajan
+EQP0161,TURF050,Basketball,3,2020-07-16,2000,Fair,2021-11-30,Amble-Shan
+EQP0162,TURF039,Cricket Bat,2,2024-06-18,300,Worn,2026-03-27,Varma Inc
+EQP0163,TURF007,Basketball,2,2025-12-18,1200,Good,2026-03-29,"Aurora, Gokhale and Prakash"
+EQP0164,TURF042,Cricket Ball Set,12,2023-10-11,500,Good,2024-11-26,Baral-Mital
+EQP0165,TURF003,Basketball,6,2024-01-14,1200,Worn,2024-04-22,Gade and Sons
+EQP0166,TURF049,Basketball,5,2022-01-11,500,Fair,2025-11-30,Magar-Shroff
+EQP0167,TURF013,Cricket Ball Set,15,2022-10-16,3500,New,2024-09-17,Swaminathan LLC
+EQP0168,TURF007,Bibs Set,6,2020-01-14,5000,New,2024-02-22,"Pillai, Nanda and Sani"
+EQP0169,TURF034,Tennis Racket,4,2026-05-30,8000,Fair,2026-06-09,Bhat-Sule
+EQP0170,TURF002,Cricket Bat,4,2024-06-01,500,Fair,2025-12-07,Chad Ltd
+EQP0171,TURF032,Tennis Racket,14,2020-09-03,8000,New,2024-07-10,"Saha, Borra and Subramaniam"
+EQP0172,TURF027,Bibs Set,18,2025-02-08,300,Good,2025-08-26,Walia Ltd
+EQP0173,TURF027,Basketball,19,2019-05-27,8000,Worn,2021-05-07,Saran-Balan
+EQP0174,TURF030,Badminton Racket,5,2021-04-23,1200,Good,2022-12-27,"Minhas, Palan and Rana"
+EQP0175,TURF015,Cricket Bat,6,2022-04-24,300,Good,2025-08-08,Patla-Bahri
+EQP0176,TURF025,Badminton Racket,20,2026-01-15,800,Worn,2026-03-08,"Muni, Kamdar and Bajaj"
+EQP0177,TURF015,Shuttlecock Box,9,2023-10-27,3500,Fair,2024-12-25,Jaggi and Sons
+EQP0178,TURF010,Cricket Ball Set,19,2021-10-09,500,Needs Replacement,2024-02-01,"Nori, Barman and Shroff"
+EQP0179,TURF008,Volleyball,19,2025-09-05,1200,Fair,2026-03-03,"Nayar, Minhas and Chada"
+EQP0180,TURF005,Cricket Bat,9,2022-10-07,2000,New,2026-04-25,Halder and Sons
+EQP0181,TURF005,Football,11,2024-03-02,8000,Worn,2024-11-09,Contractor-Bahri
+EQP0182,TURF046,Tennis Racket,5,2021-12-22,2000,New,2022-08-26,"Deep, Mahajan and Sami"
+EQP0183,TURF040,Goal Post Net,4,2020-03-22,5000,Needs Replacement,2022-04-27,Anne-Radhakrishnan
+EQP0184,TURF027,Volleyball,2,2021-06-11,500,Worn,2022-08-28,Manne PLC
+EQP0185,TURF046,Scoreboard,12,2022-01-09,3500,New,2024-09-28,"Behl, Krishna and Bhatt"
+EQP0186,TURF022,Cricket Bat,7,2020-01-17,500,Needs Replacement,2021-11-15,"Baria, Dey and Pathak"
+EQP0187,TURF005,Football,17,2020-09-29,300,Fair,2024-09-30,Chaudhry PLC
+EQP0188,TURF031,Goal Post Net,5,2021-07-16,3500,Worn,2022-10-09,Dhaliwal LLC
+EQP0189,TURF029,Basketball,1,2024-06-11,3500,Worn,2024-08-02,Buch-Gulati
+EQP0190,TURF005,Scoreboard,14,2019-09-15,5000,Worn,2021-11-11,Buch-Sama
+EQP0191,TURF032,Badminton Racket,12,2025-05-13,5000,Needs Replacement,2025-11-16,Devan-Sankar
+EQP0192,TURF042,Cones Set,12,2026-01-28,2000,Good,2026-03-17,"Sood, Singhal and Gopal"
+EQP0193,TURF014,Badminton Racket,10,2020-05-08,3500,Needs Replacement,2022-07-17,Tandon Ltd
+EQP0194,TURF009,Goal Post Net,20,2023-09-11,800,Good,2025-02-04,"Kothari, Dave and Mannan"
+EQP0195,TURF014,Cricket Ball Set,19,2019-11-13,1200,New,2026-03-13,"Kamdar, Pant and Rege"
+EQP0196,TURF016,Goal Post Net,4,2023-12-25,500,Needs Replacement,2025-11-11,Chaudhry Group
+EQP0197,TURF012,Bibs Set,20,2022-05-13,5000,Fair,2025-11-26,"Dara, Sengupta and Kapadia"
+EQP0198,TURF026,Bibs Set,12,2026-05-28,3500,Fair,2026-06-12,Varghese Group
+EQP0199,TURF043,Football,9,2024-09-29,5000,Worn,2025-10-02,"Chana, Dara and Varty"
+EQP0200,TURF017,Badminton Racket,5,2024-06-23,300,Worn,2024-07-18,Toor Group
+EQP0201,TURF010,Basketball,10,2022-03-27,500,Needs Replacement,2026-05-23,"Kibe, Guha and Garg"
+EQP0202,TURF035,Badminton Racket,17,2023-08-25,5000,Needs Replacement,2023-11-22,Uppal-Soman
+EQP0203,TURF038,Bibs Set,7,2019-07-05,5000,New,2019-11-09,"Rout, Kala and Seshadri"
+EQP0204,TURF002,Football,11,2021-07-12,500,New,2022-07-06,Khatri-Bhardwaj
+EQP0205,TURF003,Scoreboard,15,2021-11-17,500,Worn,2023-09-17,Balay-Hari
+EQP0206,TURF046,Cricket Ball Set,13,2024-10-15,500,New,2025-08-24,Dani-Subramanian
+EQP0207,TURF040,Volleyball,9,2025-11-18,5000,Fair,2026-04-17,"Deo, Venkataraman and Sama"
+EQP0208,TURF041,Football,19,2020-02-05,1200,Good,2021-03-08,Morar Group
+EQP0209,TURF033,Tennis Racket,17,2020-11-18,2000,Good,2020-12-12,Khanna-Dayal
+EQP0210,TURF017,Scoreboard,1,2021-02-17,300,New,2023-02-05,Panchal-Gole
+EQP0211,TURF010,Cricket Ball Set,19,2024-02-15,5000,Worn,2024-12-09,"Varughese, Dubey and Anne"
+EQP0212,TURF043,Cricket Ball Set,11,2022-02-06,8000,Good,2024-10-01,"Pai, Bhagat and Shroff"
+EQP0213,TURF001,Scoreboard,9,2021-03-15,300,Needs Replacement,2022-02-24,Agrawal-Narayanan
+EQP0214,TURF049,Volleyball,11,2020-08-13,8000,Fair,2024-12-30,"Basak, Singh and Bhargava"
+EQP0215,TURF029,Bibs Set,5,2021-10-15,1200,Needs Replacement,2023-05-16,"Shenoy, Biswas and Chana"
+EQP0216,TURF045,Tennis Racket,1,2025-06-20,5000,Needs Replacement,2025-11-19,"Parikh, Vyas and Kalla"
+EQP0217,TURF017,Shuttlecock Box,3,2020-10-10,5000,Worn,2025-04-09,Parmar-Goswami
+EQP0218,TURF032,Cones Set,17,2021-10-26,800,New,2025-08-01,Munshi-Malhotra
+EQP0219,TURF003,Goal Post Net,12,2023-11-01,2000,Worn,2026-05-27,Shroff-Sur
+EQP0220,TURF043,Cricket Bat,7,2022-04-25,500,New,2026-01-06,Doctor-Chanda
+EQP0221,TURF050,Goal Post Net,16,2021-03-29,1200,Good,2024-02-15,Wali and Sons
+EQP0222,TURF018,Basketball,16,2020-12-02,5000,Good,2021-12-02,Chauhan LLC
+EQP0223,TURF038,Cricket Ball Set,2,2020-10-21,300,Good,2021-09-18,Bahl and Sons
+EQP0224,TURF005,Cricket Bat,1,2023-05-10,2000,Needs Replacement,2025-11-20,Wali PLC
+EQP0225,TURF029,Volleyball,10,2021-10-24,500,Fair,2025-07-20,Subramaniam-Comar
+EQP0226,TURF034,Basketball,6,2022-12-05,8000,Good,2023-01-28,"Char, Cherian and Reddy"
+EQP0227,TURF027,Volleyball,8,2024-01-08,5000,Worn,2025-07-11,D’Alia and Sons
+EQP0228,TURF038,Bibs Set,18,2023-07-05,2000,Fair,2024-12-26,Sarma-Nori
+EQP0229,TURF001,Shuttlecock Box,15,2020-06-05,1200,New,2024-10-15,Nair and Sons
+EQP0230,TURF020,Shuttlecock Box,13,2021-05-04,800,Worn,2025-04-18,Gara Group
+EQP0231,TURF030,Basketball,1,2020-05-11,800,Good,2022-06-13,Sant LLC
+EQP0232,TURF008,Bibs Set,19,2021-05-30,1200,Good,2026-03-18,"Garde, Sibal and Bumb"
+EQP0233,TURF003,Bibs Set,11,2024-04-19,1200,Worn,2024-04-28,"Kadakia, Khalsa and Sachdev"
+EQP0234,TURF045,Cones Set,14,2022-05-24,300,Needs Replacement,2023-03-04,Sankar-Patla
+EQP0235,TURF037,Goal Post Net,15,2020-07-28,500,Good,2020-12-11,Mitra PLC
+EQP0236,TURF048,Basketball,13,2020-01-07,1200,New,2025-10-01,Salvi Ltd
+EQP0237,TURF024,Basketball,8,2026-01-23,1200,Worn,2026-03-17,Vig-Das
+EQP0238,TURF049,Bibs Set,17,2023-08-03,8000,Needs Replacement,2024-09-02,"Dalal, Nadig and Tailor"
+EQP0239,TURF022,Volleyball,8,2024-12-04,1200,Needs Replacement,2026-04-25,Varkey-Buch
+EQP0240,TURF028,Cones Set,1,2020-04-17,500,Fair,2020-10-14,"Krishnan, Randhawa and Pradhan"
+EQP0241,TURF043,Basketball,12,2020-08-10,2000,Worn,2021-03-19,"Shankar, Kadakia and Shah"
+EQP0242,TURF031,Football,17,2021-09-14,8000,Good,2022-10-15,Bath-Shanker
+EQP0243,TURF010,Cricket Bat,10,2025-08-15,300,Fair,2026-01-31,Agrawal Group
+EQP0244,TURF046,Volleyball,13,2022-08-14,8000,Needs Replacement,2023-03-31,"Vig, Ghose and Venkatesh"
+EQP0245,TURF038,Cricket Ball Set,5,2019-10-16,300,New,2021-03-13,Tank LLC
+EQP0246,TURF020,Cricket Ball Set,20,2019-03-10,8000,Fair,2025-02-14,"De, Gupta and Arya"
+EQP0247,TURF035,Badminton Racket,14,2022-03-01,500,New,2025-05-12,Sachar-Oza
+EQP0248,TURF002,Badminton Racket,20,2022-09-04,300,Needs Replacement,2023-06-29,"Walia, Tiwari and Sani"
+EQP0249,TURF024,Goal Post Net,6,2021-12-31,5000,New,2022-04-24,Kota Inc
+EQP0250,TURF044,Scoreboard,17,2020-06-28,5000,New,2026-03-12,Mody PLC
+EQP0251,TURF022,Scoreboard,10,2025-08-16,300,Fair,2026-02-14,Bala-Sinha
+EQP0252,TURF004,Cricket Ball Set,4,2021-01-13,1200,Fair,2022-08-16,"Gopal, Banerjee and Ratti"
+EQP0253,TURF012,Football,13,2020-07-31,3500,New,2024-11-29,"Walla, Bhatnagar and Merchant"
+EQP0254,TURF006,Basketball,19,2025-12-02,800,New,2026-03-27,Toor-Mann
+EQP0255,TURF004,Shuttlecock Box,11,2025-11-23,500,Good,2026-03-29,Chopra Ltd
+EQP0256,TURF014,Bibs Set,11,2019-02-01,300,Good,2025-11-28,Ranganathan LLC
+EQP0257,TURF046,Bibs Set,6,2024-06-18,1200,Good,2025-11-15,Kota-Sarin
+EQP0258,TURF030,Football,6,2023-03-01,3500,Worn,2023-06-10,"Varghese, Ahluwalia and Chawla"
+EQP0259,TURF011,Bibs Set,16,2024-05-31,8000,Good,2025-12-08,Rege Ltd
+EQP0260,TURF028,Football,18,2024-12-04,500,Worn,2026-06-10,"Chakraborty, Venkataraman and Aggarwal"
+EQP0261,TURF012,Tennis Racket,7,2026-05-01,800,New,2026-06-02,Barad-Bath
+EQP0262,TURF033,Scoreboard,8,2019-07-04,2000,Worn,2023-05-09,Savant-Misra
+EQP0263,TURF031,Bibs Set,3,2025-10-03,2000,Worn,2026-02-04,"Palla, Cherian and Balay"
+EQP0264,TURF034,Tennis Racket,3,2022-11-19,300,Needs Replacement,2023-08-30,Sethi Ltd
+EQP0265,TURF021,Goal Post Net,14,2019-11-27,5000,Needs Replacement,2026-03-08,Chhabra-Saraf
+EQP0266,TURF047,Cones Set,15,2022-08-30,1200,Fair,2023-10-01,Rajagopal-Kota
+EQP0267,TURF004,Cricket Ball Set,20,2026-02-09,500,Fair,2026-03-04,Dave-Raghavan
+EQP0268,TURF043,Tennis Racket,1,2024-12-28,8000,Worn,2025-04-28,"Agate, Kohli and Patla"
+EQP0269,TURF048,Shuttlecock Box,9,2019-04-26,5000,Needs Replacement,2024-08-15,"Chad, Borra and Bera"
+EQP0270,TURF016,Cricket Ball Set,3,2026-06-04,8000,Worn,2026-06-08,Mand Inc
+EQP0271,TURF025,Volleyball,14,2019-03-17,3500,Needs Replacement,2020-05-05,Gara-Amble
+EQP0272,TURF020,Cricket Bat,1,2020-08-05,5000,Needs Replacement,2025-12-30,Vaidya PLC
+EQP0273,TURF033,Badminton Racket,2,2023-03-17,8000,Fair,2023-03-23,Dutta Group
+EQP0274,TURF025,Bibs Set,13,2020-01-26,300,Fair,2026-04-25,Savant-Dara
+EQP0275,TURF048,Volleyball,2,2021-12-17,300,New,2023-08-23,Dhillon-Brahmbhatt
+EQP0276,TURF050,Cricket Bat,12,2022-09-08,300,Fair,2026-04-27,Apte LLC
+EQP0277,TURF030,Goal Post Net,4,2023-08-22,3500,Worn,2025-07-08,Bhandari-Mander
+EQP0278,TURF036,Tennis Racket,7,2026-06-08,5000,Good,2026-06-12,"Sarraf, Mannan and Ramanathan"
+EQP0279,TURF036,Goal Post Net,13,2019-04-18,1200,New,2023-05-07,"Sankaran, Chaudhari and Amble"
+EQP0280,TURF011,Volleyball,18,2023-01-11,2000,Good,2024-05-18,"Nagy, Bhatti and Ghose"
+EQP0281,TURF003,Basketball,6,2025-03-07,5000,Worn,2025-07-15,Swaminathan Group
+EQP0282,TURF003,Goal Post Net,14,2024-07-28,1200,Good,2026-02-06,Soman-Deshmukh
+EQP0283,TURF033,Volleyball,18,2019-10-18,8000,New,2026-03-22,Bali-Nanda
+EQP0284,TURF003,Basketball,5,2025-11-09,5000,Needs Replacement,2025-11-27,Venkataraman-Sarkar
+EQP0285,TURF011,Goal Post Net,10,2020-12-17,300,Fair,2025-10-08,Oommen-Dube
+EQP0286,TURF021,Badminton Racket,13,2025-11-19,1200,Worn,2026-04-11,Narain LLC
+EQP0287,TURF004,Cricket Ball Set,1,2019-11-30,500,Good,2025-06-29,"Kalla, Sharaf and More"
+EQP0288,TURF034,Basketball,9,2022-02-13,2000,Worn,2022-10-12,Bassi-Sandal
+EQP0289,TURF002,Cones Set,12,2020-01-17,500,Fair,2020-02-18,Tank-Sachdev
+EQP0290,TURF023,Cricket Bat,11,2021-05-17,300,New,2025-01-30,Bhasin-Pradhan
+EQP0291,TURF040,Volleyball,4,2019-12-12,800,Worn,2020-08-15,"Acharya, Mangal and Lalla"
+EQP0292,TURF017,Football,16,2023-09-18,3500,Fair,2024-05-01,Krish and Sons
+EQP0293,TURF034,Cricket Ball Set,11,2019-07-02,300,New,2023-11-19,"Ramakrishnan, Divan and Borde"
+EQP0294,TURF009,Basketball,19,2020-10-26,5000,Fair,2026-04-13,Devan-Rege
+EQP0295,TURF035,Shuttlecock Box,19,2020-02-24,8000,Good,2020-09-14,Rattan LLC
+EQP0296,TURF020,Goal Post Net,3,2019-03-07,3500,Worn,2021-01-27,Chaudhry-Sampath
+EQP0297,TURF025,Football,11,2019-04-11,800,New,2020-03-19,Goyal Inc
+EQP0298,TURF036,Volleyball,8,2026-05-09,2000,New,2026-06-18,Lal Group
+EQP0299,TURF011,Goal Post Net,4,2020-07-29,300,Needs Replacement,2025-06-21,"Mander, Karpe and Virk"
+EQP0300,TURF038,Cricket Ball Set,10,2021-02-23,1200,Fair,2025-09-30,"Nigam, Krishnamurthy and Tank"
